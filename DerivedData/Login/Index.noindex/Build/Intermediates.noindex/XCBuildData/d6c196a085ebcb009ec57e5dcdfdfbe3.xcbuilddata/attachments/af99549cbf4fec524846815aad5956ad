@@ -1,0 +1,18 @@
+{
+  "" : {
+    "dependencies" : "/Users/mannyflor/projects/Login/DerivedData/Login/Index.noindex/Build/Intermediates.noindex/Login.build/Debug-iphonesimulator/Login.build/Objects-normal/arm64/Login-master.d",
+    "diagnostics" : "/Users/mannyflor/projects/Login/DerivedData/Login/Index.noindex/Build/Intermediates.noindex/Login.build/Debug-iphonesimulator/Login.build/Objects-normal/arm64/Login-master.dia",
+    "emit-module-dependencies" : "/Users/mannyflor/projects/Login/DerivedData/Login/Index.noindex/Build/Intermediates.noindex/Login.build/Debug-iphonesimulator/Login.build/Objects-normal/arm64/Login-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/mannyflor/projects/Login/DerivedData/Login/Index.noindex/Build/Intermediates.noindex/Login.build/Debug-iphonesimulator/Login.build/Objects-normal/arm64/Login-master-emit-module.dia",
+    "swift-dependencies" : "/Users/mannyflor/projects/Login/DerivedData/Login/Index.noindex/Build/Intermediates.noindex/Login.build/Debug-iphonesimulator/Login.build/Objects-normal/arm64/Login-master.swiftdeps"
+  },
+  "/Users/mannyflor/projects/Login/DerivedData/Login/Index.noindex/Build/Intermediates.noindex/Login.build/Debug-iphonesimulator/Login.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/mannyflor/projects/Login/Login/AppDelegate.swift" : {
+
+  },
+  "/Users/mannyflor/projects/Login/Login/ViewController.swift" : {
+
+  }
+}
