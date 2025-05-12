@@ -67,8 +67,7 @@ class ViewController: UIViewController {
             loginButton.topAnchor.constraint(equalTo: passwordTextField.bottomAnchor, constant: 30),
             loginButton.leadingAnchor.constraint(equalTo: emailTextField.leadingAnchor),
             loginButton.trailingAnchor.constraint(equalTo: emailTextField.trailingAnchor),
-            loginButton.heightAnchor.constraint(equalToConstant: 50)
-            
+            loginButton.heightAnchor.constraint(equalToConstant: 50)            
         ])
     }
     
