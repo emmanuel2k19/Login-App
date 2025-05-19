@@ -1,0 +1,19 @@
+# iOS build artifacts
+DerivedData/
+build/
+
+# Xcode specific
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+
+# macOS system files
+.DS_Store
+
+# Node.js backend
+login-backend/node_modules/
+login-backend/.env
+login-backend/npm-debug.log
+login-backend/yarn-debug.log
+login-backend/yarn-error.log
+login-backend/.DS_Store
