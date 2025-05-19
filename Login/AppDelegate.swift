@@ -18,7 +18,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     ) -> Bool {
 
         window = UIWindow(frame: UIScreen.main.bounds)
-        window?.rootViewController = ViewController() // Replace with your root VC
+        window?.rootViewController = UINavigationController(rootViewController: LoginViewController()) // Replace with your root VC
         window?.makeKeyAndVisible()
 
         return true

@@ -1,0 +1,11 @@
+# Ignore build artifacts and intermediate files
+DerivedData/
+build/
+
+# Xcode specific
+*.xcworkspace
+xcuserdata/
+*.xcuserstate
+
+# macOS system files
+.DS_Store
