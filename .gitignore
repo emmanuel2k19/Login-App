@@ -1,4 +1,4 @@
-# Ignore build artifacts and intermediate files
+# iOS build artifacts
 DerivedData/
 build/
 
@@ -9,3 +9,11 @@ xcuserdata/
 
 # macOS system files
 .DS_Store
+
+# Node.js backend
+backend/node_modules/
+backend/.env
+backend/npm-debug.log
+backend/yarn-debug.log
+backend/yarn-error.log
+backend/.DS_Store
