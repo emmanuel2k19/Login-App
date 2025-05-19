@@ -11,9 +11,9 @@ xcuserdata/
 .DS_Store
 
 # Node.js backend
-backend/node_modules/
-backend/.env
-backend/npm-debug.log
-backend/yarn-debug.log
-backend/yarn-error.log
-backend/.DS_Store
+login-backend/node_modules/
+login-backend/.env
+login-backend/npm-debug.log
+login-backend/yarn-debug.log
+login-backend/yarn-error.log
+login-backend/.DS_Store
